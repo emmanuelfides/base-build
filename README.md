@@ -1,6 +1,6 @@
 ## FLOW
 
-Enquiry telegram:  @lionelemmark
+Enquiry telegram:  https://t.me/emmanuelfides1
 
 #install
 	- setup the Node.js
@@ -34,6 +34,6 @@ Enquiry telegram:  @lionelemmark
 
 	node base.js buy -a <tokenaddress> -ba <buyamount>
 
-	Enquiry telegram:  @lionelemmark
+	Enquiry telegram:  https://t.me/emmanuelfides1
 
 
